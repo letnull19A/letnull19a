@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I`am Alex
 
-<!--
-**letnull19A/letnull19a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I`am?
+<p>I think my global target of my life is learning this world and studying and make mistakes.</p>
 
-Here are some ideas to get you started:
+## My Dev-Stack
+- C# (ASP.NET, ASP.NET MVC)
+- TypeScript (or simple JavaScript)
+- HTML, CSS (or SASS, or SCSS)
+- NodeJS
+- ReactJS
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goals
+My nearest goals is:
+- Learn TypeScript
+- Try learn Deno (interesting more)
+- Learn C# and .Net
+- Docker (steps of building images, mounts, and e. t. c.)
