@@ -1,9 +1,9 @@
-### Hi I`am Alex
+### Hi I`am Alex 😄
 
-## Who I`am?
+## Who I`am? 🧐
 <p>I think my global target of my life is learning this world and studying and make mistakes.</p>
 
-## My Dev-Stack
+## My Dev-Stack 🤖
 - C# (ASP.NET, ASP.NET MVC)
 - TypeScript (or simple JavaScript)
 - HTML, CSS (or SASS, or SCSS)
@@ -11,7 +11,7 @@
 - ReactJS
 - Docker
 
-## My Goals
+## My Goals ♾️
 My nearest goals is:
 - Learn TypeScript
 - Try learn Deno (interesting more)
