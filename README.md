@@ -4,12 +4,19 @@
 <p>I think my global target of my life is learning this world and studying and make mistakes.</p>
 
 ## My Dev-Stack 🤖
-- C# (ASP.NET, ASP.NET MVC)
-- TypeScript (or simple JavaScript)
-- HTML, CSS (or SASS, or SCSS)
-- NodeJS
-- ReactJS
-- Docker
+[![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
+[![NuGet](https://img.shields.io/badge/nuget-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://npmjs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://javascript.com)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
+[![SCSS](https://img.shields.io/badge/SCSS-cc6699?style=for-the-badge&logo=sass&logoColor=white)](https://w3.org/Style/CSS)
+[![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)](https://react.com)
+[![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=C%20sharp&logoColor=white)](https://react.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)](https://docker.com)
+[![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://docker.com)
+[![Gulp](https://img.shields.io/badge/gulp-CF4647.svg?&style=for-the-badge&logo=gulp&logoColor=white)](https://docker.com)
 
 ## My Goals ♾️
 My nearest goals is:
