@@ -17,6 +17,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)](https://docker.com)
 [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://docker.com)
 [![Gulp](https://img.shields.io/badge/gulp-CF4647.svg?&style=for-the-badge&logo=gulp&logoColor=white)](https://docker.com)
+[![NGINX](https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)](https://docker.com)
 
 ## My Goals ♾️
 My nearest goals is:
