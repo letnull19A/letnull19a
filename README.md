@@ -12,7 +12,7 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
 [![SCSS](https://img.shields.io/badge/SCSS-cc6699?style=for-the-badge&logo=sass&logoColor=white)](https://w3.org/Style/CSS)
-[![React](https://img.shields.io/badge/React-000000.svg?&style=for-the-badge&logo=React&logoColor=%2361DAFB)](https://react.com)
+[![React](https://img.shields.io/badge/React-000000?&style=for-the-badge&logo=React&logoColor=%2361DAFB)](https://react.com)
 [![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=C%20sharp&logoColor=white)](https://react.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)](https://docker.com)
 [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://docker.com)
