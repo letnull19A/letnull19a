@@ -27,6 +27,7 @@
 ## My Goals ♾️
 My nearest goals is:
 - Learn TypeScript
+- Learn gRPC and tRPC implementations
 - Try learn Deno (interesting more)
 - Learn C# and .Net
 - Docker (steps of building images, mounts, and e. t. c.)
