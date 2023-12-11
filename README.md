@@ -20,6 +20,7 @@
 [![NGINX](https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)](https://docker.com)
 [![nodemon](https://img.shields.io/badge/nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://javascript.com)
 [![tRPC](https://img.shields.io/badge/trpc-2596BE?style=for-the-badge&logo=trpc&logoColor=white)](https://javascript.com)
+[![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://javascript.com)
 [![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://javascript.com)
 [![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://javascript.com)
 
