@@ -3,6 +3,9 @@
 ## Who I`am? 🧐
 <p>I think my global target of my life is learning this world and studying and make mistakes.</p>
 
+## Most use
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=letnull19a&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## My Dev-Stack 🤖
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
