@@ -4,7 +4,7 @@
 <p>I think my global target of my life is learning this world and studying and make mistakes.</p>
 
 ## Most use
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=letnull19A&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letnull19a&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## My Dev-Stack 🤖
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
